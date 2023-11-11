@@ -33,6 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['codestar-blog-ramona-5679fd3ce1e9.herokuapp.com',
                  '8000-ramonabroberg-django-blo-2e6d4ghebx.us2.codeanyapp.com']
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
 
 # Application definition
 
